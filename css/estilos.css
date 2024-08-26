@@ -1,0 +1,86 @@
+/* Colores */
+/* #002D5D - AZUL */
+/* #00AEEA - CELESTE */
+.p-h {
+    text-align: justify;
+}
+
+.agencias {
+    margin: 40px 0px;
+    padding-left: 50px;
+    background-color: white;
+    border-radius: 10px;
+    /* agregados */
+    /* gap: 20px; */
+}
+
+/* .agencias {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+} */
+.h1-encabezado {
+    color: white;
+    text-align: center;
+}
+
+.c-encabezado {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* font-size: 30px; */
+    background-color: #002D5D;
+    /* color: white; */
+    /* padding: 20px; */
+    border-radius: 15px;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+    /* text-align: center; */
+    width: 490px;
+    margin: 0;
+}
+
+.h4-f-cuadrotexto-agencia {
+    top: 20px;
+    left: 20px;
+    width: 40%;
+    height: 100%;
+    background-color: #00AEEA;
+    border-radius: 5px;
+    color: white;
+}
+
+.h4-transparencia {
+    color: white;
+    background: linear-gradient(to right, #00AEEA 40%, transparent 40%);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+
+.h4-fondotexto-agencia {
+    color: white;
+    text-align: left;
+    background-color: #00AEEA;
+    padding: 0.2%;
+    border-radius: 5px;
+    display: inline;
+}
+
+.c-agencia {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    background-color: #F6F6F6;
+    padding: 20px;
+    border-radius: 25px;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+    text-align: left;
+    width: 450px;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+/* .icono-agencia {
+    width: auto;
+    height: 300px;
+    margin-bottom: 10px;
+} */
