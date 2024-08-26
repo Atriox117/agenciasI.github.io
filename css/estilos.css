@@ -8,6 +8,7 @@
 .agencias {
     margin: 40px 0px;
     padding-left: 50px;
+    padding-right: 50px;
     background-color: white;
     border-radius: 10px;
     /* agregados */
@@ -68,6 +69,7 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 16px;
     background-color: #F6F6F6;
+    color: #002D5D;
     padding: 20px;
     border-radius: 25px;
     /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
