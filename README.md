@@ -1,5 +1,3 @@
-Nueva Rama 27082024
-
 Qué hay de nuevo viejo.
 Acompáñame a ver esta historia épica.
 
